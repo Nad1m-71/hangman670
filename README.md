@@ -77,5 +77,4 @@ Through this project, I learned how to:
 
 ## License
 
-This project is licensed under the terms of the MIT License:
-[MIT License](https://github.com/othneildrew/Best-README-Template/blob/main/LICENSE.txt).
+This project is licensed under the terms of the [MIT License](https://github.com/othneildrew/Best-README-Template/blob/main/LICENSE.txt).
