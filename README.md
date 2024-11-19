@@ -32,8 +32,8 @@ The aim of the project is to learn the basics of Python, including working with 
 The outcome of this project is to learn and practise:
 
 - Python programming basics
-- Utilistaion of Object Oriented Programming to make a hangman game, working with classes and methods
-- Handling user input and validating data
+- Utilisation of Object Oriented Programming to make a hangman game, working with classes and methods
+- Handling user input, which is then validated.
 - Using control structures such as loops and conditionals
 
 ## Installation
