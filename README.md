@@ -12,7 +12,7 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 - [Usage](#usage)
 - [What I Learned](#what-i-learned)
 - [File structure](#file-structure) 
-- [License](#licesnse)
+- [License](#license)
 
 ## Description
 
