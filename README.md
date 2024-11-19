@@ -11,6 +11,8 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 - [Installation](#installation)
 - [Usage](#usage)
 - [What I Learned](#what-i-learned)
+- [File structure](#file-structure) 
+- [License](#licesnse)
 
 ## Description
 
@@ -44,13 +46,12 @@ The outcome of this project is to learn and practise:
 
 ## Usage
 
-1. Open you terminal and run the `milestone_4.py` file to start the game.
+1. Open you terminal and run the `milestone_5.py` file to start the game.
    ``` 	
-   python milestone_4.py
+   python milestone_5.py
    ```
  
 2. Follow the prompts displayed on the screen.
-
 
 ## What I Learned
 
@@ -63,3 +64,18 @@ Through this project, I learned how to:
 - Creating and using Python classes and methods.
 - Writing modular and reusable code.
 
+## File structure
+
+.
+├── README.md
+├── hangman
+│   ├── hangman_Template.py
+│   ├── milestone_2.py
+│   ├── milestone_3.py
+│   ├── milestone_4.py
+│   └── milestone_5.py
+
+## License
+
+This project is licensed under the terms of the MIT License:
+[MIT License](https://github.com/othneildrew/Best-README-Template/blob/main/LICENSE.txt).
