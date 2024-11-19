@@ -39,7 +39,7 @@ class Hangman:
             if self.num_letters == 0:
                 print("Congrats! You have guessed the word correctly :)")
                 break
-            elif self.num_lives == 0:
+            if self.num_lives == 0:
                 print(f"You have ran out of lives. The word to be guess is {self.word}.")
                 break
 
